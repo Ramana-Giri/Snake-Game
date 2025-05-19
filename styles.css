@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#titlecard{
+    margin-bottom: 1em;
+}
+
+#gameBoard{
+    border: 1px solid darkslategrey;
+    /* background-color: darkslategrey; */
+}
+#score{
+    margin-top: 1em;
+}
